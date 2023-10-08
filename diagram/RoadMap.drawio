@@ -1,38 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T03:15:11.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lw3sKI377DLybcZ6qbHp" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T03:31:26.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1_B2VTS0zyI1w6g33I5E" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="_5af58X6gQqTB03gFPoe">
-    <mxGraphModel dx="899" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vCxmfgHOgyI4xVYoJoi5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-2" target="vCxmfgHOgyI4xVYoJoi5-4">
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-2" target="vCxmfgHOgyI4xVYoJoi5-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="180" as="sourcePoint" />
-            <mxPoint x="340" y="80" as="targetPoint" />
+            <mxPoint x="300" y="610" as="sourcePoint" />
+            <mxPoint x="390" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-2" value="Умение писать код&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ООП&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Swift (основы)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="266" height="110" as="geometry" />
+          <mxGeometry x="70" y="650" width="266" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-3" value="ООП" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="220" height="140" as="geometry" />
+          <mxGeometry x="430" y="530" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-4" value="- Типы данных&lt;br&gt;- Переменные&lt;br&gt;- Функции&lt;br&gt;- Классы&lt;br&gt;- Поля/Методы&lt;br&gt;- Область видимости&lt;br&gt;-Наследование&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="vCxmfgHOgyI4xVYoJoi5-3">
           <mxGeometry y="20" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-5" value="Swift" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="220" height="160" as="geometry" />
+          <mxGeometry x="430" y="740" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Переменные и константы&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Типы в Swift&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Базовые конструкции&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Коллекции&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Структуры и классы&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Enums&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Методы и свойства&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расширения&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Опциональные типы&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="vCxmfgHOgyI4xVYoJoi5-5">
           <mxGeometry y="20" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-7" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-2" target="vCxmfgHOgyI4xVYoJoi5-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="270" as="sourcePoint" />
-            <mxPoint x="380" y="380" as="targetPoint" />
+            <mxPoint x="340" y="700" as="sourcePoint" />
+            <mxPoint x="430" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCxmfgHOgyI4xVYoJoi5-8" value="Swift. Основы разработки приложений под iOS, iPadOS и macOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="90" width="360" height="380" as="geometry" />
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-8" value="Книги:&lt;br&gt;Swift. Основы разработки приложений под iOS, iPadOS и macOS&lt;br&gt;The Swift Programming Language (Swift 5.7)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Курсы:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Решение задач:&lt;br&gt;- CodeWars&lt;br&gt;- CodeSignals&lt;br&gt;- LeetCode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="360" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-9" value="Английский язык" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="266" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-10" value="Английский язык" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="220" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-11" value="- Словарный запас&lt;br&gt;- Чтение текстов&lt;br&gt;- Просмотр в видео с субтитрами" style="whiteSpace=wrap;html=1;" vertex="1" parent="vCxmfgHOgyI4xVYoJoi5-10">
+          <mxGeometry y="25" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-9" target="vCxmfgHOgyI4xVYoJoi5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="630" as="sourcePoint" />
+            <mxPoint x="420" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-13" value="Математика&lt;br&gt;Логика" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="266" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-14" value="Математика" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="220" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-15" value="- Основные действия&lt;br&gt;- Уравнения, переменные&lt;br&gt;- Декартова система координат&lt;br&gt;- Вектора" style="whiteSpace=wrap;html=1;" vertex="1" parent="vCxmfgHOgyI4xVYoJoi5-14">
+          <mxGeometry y="25" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-13" target="vCxmfgHOgyI4xVYoJoi5-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-17" value="Логика" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="220" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-18" value="- Логическое И&lt;br&gt;- Логическое ИЛИ&lt;br&gt;- Отрицание" style="whiteSpace=wrap;html=1;" vertex="1" parent="vCxmfgHOgyI4xVYoJoi5-17">
+          <mxGeometry y="25" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-19" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vCxmfgHOgyI4xVYoJoi5-13" target="vCxmfgHOgyI4xVYoJoi5-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
