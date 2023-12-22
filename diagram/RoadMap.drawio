@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:45:37.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3G5LBLoUrrkCsrnNY5Uq" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T20:06:00.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z3dSCcbaAV8C33JsK7SS" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="_5af58X6gQqTB03gFPoe">
     <mxGraphModel dx="1749" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-3" value="ООП" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="670" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="vCxmfgHOgyI4xVYoJoi5-8" value="Книги:&lt;br&gt;Swift. Основы разработки приложений под iOS, iPadOS и macOS&lt;br&gt;The Swift Programming Language (Swift 5.7)&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Acsf4f5pXHFojomXbPFyc4LUo7YMQOrP/view?usp=drive_link&quot;&gt;Swift in Depths&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Курсы:&lt;br&gt;&lt;a href=&quot;https://otus.ru/lessons/basic-ios/&quot;&gt;OTUS Basics&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1-5KHCQ-wWFF1CMX0HtBL7KyEI4G1gjN8&quot;&gt;UDEMIA Bootcamp&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/swift-playgrounds/&quot;&gt;Apple Swift Playgrounds&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Решение задач:&lt;br&gt;- &lt;a href=&quot;https://www.codewars.com/&quot;&gt;CodeWars&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://codesignal.com/&quot;&gt;CodeSignals&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://leetcode.com/&quot;&gt;LeetCode&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vCxmfgHOgyI4xVYoJoi5-8" value="Книги:&lt;br&gt;Swift. Основы разработки приложений под iOS, iPadOS и macOS&lt;br&gt;The Swift Programming Language (Swift 5.7)&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Acsf4f5pXHFojomXbPFyc4LUo7YMQOrP/view?usp=drive_link&quot;&gt;Swift in Depths&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/18zhrmPKqNkiiQylcWbZbQDQm2F-8SHHl/view?usp=drive_link&quot;&gt;Swift for Absolute Begginers&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Курсы:&lt;br&gt;&lt;a href=&quot;https://otus.ru/lessons/basic-ios/&quot;&gt;OTUS Basics&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1-5KHCQ-wWFF1CMX0HtBL7KyEI4G1gjN8&quot;&gt;UDEMIA Bootcamp&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/swift-playgrounds/&quot;&gt;Apple Swift Playgrounds&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Решение задач:&lt;br&gt;- &lt;a href=&quot;https://www.codewars.com/&quot;&gt;CodeWars&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://codesignal.com/&quot;&gt;CodeSignals&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://leetcode.com/&quot;&gt;LeetCode&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="660" width="360" height="380" as="geometry" />
         </mxCell>
         <mxCell id="vCxmfgHOgyI4xVYoJoi5-9" value="Английский язык" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
             <mxPoint x="560" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7uVsoyw86wDC9n9_G3oJ-19" value="UIKit" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="7uVsoyw86wDC9n9_G3oJ-19" value="UIKit (SwiftUI?)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="1700" width="266" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7uVsoyw86wDC9n9_G3oJ-20" value="Хранение данных" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -145,14 +145,35 @@
         <mxCell id="7uVsoyw86wDC9n9_G3oJ-23" value="Git" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="1190" width="266" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6vTIE9_mmki5EIVPtUrZ-1" value="- &lt;a href=&quot;https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/&quot;&gt;Docs&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/companies/hh/articles/546856/&quot;&gt;Swift memory&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/articles/592385/&quot;&gt;Еще про память&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://maximeremenko.com/swift-arc-weak-references&quot;&gt;Swift. Side tables&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6vTIE9_mmki5EIVPtUrZ-1" value="- &lt;a href=&quot;https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/&quot;&gt;Docs&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/companies/hh/articles/546856/&quot;&gt;Swift memory&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/articles/592385/&quot;&gt;Еще про память&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://maximeremenko.com/swift-arc-weak-references&quot;&gt;Swift. Side tables&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1560" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6vTIE9_mmki5EIVPtUrZ-3" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5N7lw2mSQu-gfIogqw3Yj3&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;??" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6vTIE9_mmki5EIVPtUrZ-3" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5N7lw2mSQu-gfIogqw3Yj3&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;??" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="2050" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6vTIE9_mmki5EIVPtUrZ-4" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5VQuEhPXsvuBA3m-YP8CIQ&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;??" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1823" width="360" height="110" as="geometry" />
+        <mxCell id="6vTIE9_mmki5EIVPtUrZ-4" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5VQuEhPXsvuBA3m-YP8CIQ&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;(middle)&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/documentation/coredata/&quot;&gt;CoreData&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/1PY9pEtv2N6ScLUlOvesH6JDEu7v6Z7vJ/view?usp=drive_link&quot;&gt;Practicle Core Data&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://realm.io/realm-swift/&quot;&gt;Realm&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1823" width="360" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-1" value="- Любой способ хранения&lt;br&gt;- Базовые принципы реляционных БД (таблички, связи, запросы)&lt;br&gt;- CoreData&lt;br&gt;- Realm&lt;br&gt;- UserDefaults&lt;br&gt;- SwiftData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1826.5" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="1872.5" as="sourcePoint" />
+            <mxPoint x="429" y="1872.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-4" value="&lt;a href=&quot;https://drive.google.com/drive/folders/1-5KHCQ-wWFF1CMX0HtBL7KyEI4G1gjN8&quot;&gt;Udemia BootCamp&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1-2kiGvDwOlyJCTXYjK-At1z8JIMpZwUl&quot;&gt;UIKit Apprentice&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1l_65d2_-DqDa1GOfyqsZwLo12UQlJ53-&quot;&gt;Hacking with Swift (UIKit)&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1700" width="360" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-5" value="- Фреймворк в целом&lt;br&gt;- Подходы к верстке (код, Storyboard)&lt;br&gt;- UIResponder Chain&lt;br&gt;- Навигация&lt;br&gt;- Фреймы&lt;br&gt;- AutoLayout" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1703.5" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="1749.5" as="sourcePoint" />
+            <mxPoint x="430" y="1749.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
