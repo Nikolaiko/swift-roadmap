@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T20:06:00.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="z3dSCcbaAV8C33JsK7SS" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T20:48:28.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="72dNEp8ARy-EzM2CU9_Z" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="_5af58X6gQqTB03gFPoe">
     <mxGraphModel dx="1749" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,8 +148,8 @@
         <mxCell id="6vTIE9_mmki5EIVPtUrZ-1" value="- &lt;a href=&quot;https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/&quot;&gt;Docs&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/companies/hh/articles/546856/&quot;&gt;Swift memory&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://habr.com/ru/articles/592385/&quot;&gt;Еще про память&lt;/a&gt;&lt;br&gt;- &lt;a href=&quot;https://maximeremenko.com/swift-arc-weak-references&quot;&gt;Swift. Side tables&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1560" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6vTIE9_mmki5EIVPtUrZ-3" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5N7lw2mSQu-gfIogqw3Yj3&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;??" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="2050" width="360" height="110" as="geometry" />
+        <mxCell id="6vTIE9_mmki5EIVPtUrZ-3" value="&lt;a href=&quot;https://spec.openapis.org/oas/v3.1.0&quot;&gt;OpenAPI Spec&lt;/a&gt;&lt;br&gt;Интернет&lt;br&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5N7lw2mSQu-gfIogqw3Yj3&quot;&gt;Podlodka&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/documentation/foundation/urlsession&quot;&gt;URLSession&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="2060" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6vTIE9_mmki5EIVPtUrZ-4" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5VQuEhPXsvuBA3m-YP8CIQ&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;(middle)&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/documentation/coredata/&quot;&gt;CoreData&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/1PY9pEtv2N6ScLUlOvesH6JDEu7v6Z7vJ/view?usp=drive_link&quot;&gt;Practicle Core Data&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://realm.io/realm-swift/&quot;&gt;Realm&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1823" width="360" height="107" as="geometry" />
@@ -173,6 +173,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="1749.5" as="sourcePoint" />
             <mxPoint x="430" y="1749.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-7" value="- HTTP(s)&lt;br&gt;- Запросы, GET, POST, DELETE&lt;br&gt;- Body, Parameters&lt;br&gt;- URLSession, Alamofire, Moya&lt;br&gt;- OpenAPI Specs (Чтение)&lt;br&gt;- JSON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2060" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="2109.5" as="sourcePoint" />
+            <mxPoint x="429" y="2109.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-11" value="- Поток (Thread)&lt;br&gt;- Процесс (Process)&lt;br&gt;- GCD&lt;br&gt;- Queues&lt;br&gt;- Async/Awaits (Basics)&lt;br&gt;- Основные проблемы (инверсия приоритетов...)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1940" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-12" value="Интернет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1940" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0N70W88aVnIPwhQ0qISD-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="1989.5" as="sourcePoint" />
+            <mxPoint x="430" y="1989.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
