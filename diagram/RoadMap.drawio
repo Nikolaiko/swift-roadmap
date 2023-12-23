@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T20:48:28.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="72dNEp8ARy-EzM2CU9_Z" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T06:59:18.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ujVCSYR1GrjX5eG_GdHq" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="_5af58X6gQqTB03gFPoe">
     <mxGraphModel dx="1749" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,46 +154,58 @@
         <mxCell id="6vTIE9_mmki5EIVPtUrZ-4" value="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLNSmyatBJig5VQuEhPXsvuBA3m-YP8CIQ&quot;&gt;Podlodka&lt;/a&gt;&amp;nbsp;(middle)&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/documentation/coredata/&quot;&gt;CoreData&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/file/d/1PY9pEtv2N6ScLUlOvesH6JDEu7v6Z7vJ/view?usp=drive_link&quot;&gt;Practicle Core Data&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://realm.io/realm-swift/&quot;&gt;Realm&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1823" width="360" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-1" value="- Любой способ хранения&lt;br&gt;- Базовые принципы реляционных БД (таблички, связи, запросы)&lt;br&gt;- CoreData&lt;br&gt;- Realm&lt;br&gt;- UserDefaults&lt;br&gt;- SwiftData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-1" value="- Любой способ хранения&lt;br&gt;- Базовые принципы реляционных БД (таблички, связи, запросы)&lt;br&gt;- CoreData&lt;br&gt;- Realm&lt;br&gt;- UserDefaults&lt;br&gt;- SwiftData" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1826.5" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="336" y="1872.5" as="sourcePoint" />
             <mxPoint x="429" y="1872.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-4" value="&lt;a href=&quot;https://drive.google.com/drive/folders/1-5KHCQ-wWFF1CMX0HtBL7KyEI4G1gjN8&quot;&gt;Udemia BootCamp&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1-2kiGvDwOlyJCTXYjK-At1z8JIMpZwUl&quot;&gt;UIKit Apprentice&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1l_65d2_-DqDa1GOfyqsZwLo12UQlJ53-&quot;&gt;Hacking with Swift (UIKit)&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-4" value="&lt;a href=&quot;https://drive.google.com/drive/folders/1-5KHCQ-wWFF1CMX0HtBL7KyEI4G1gjN8&quot;&gt;Udemia BootCamp&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1-2kiGvDwOlyJCTXYjK-At1z8JIMpZwUl&quot;&gt;UIKit Apprentice&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1l_65d2_-DqDa1GOfyqsZwLo12UQlJ53-&quot;&gt;Hacking with Swift (UIKit)&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1700" width="360" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-5" value="- Фреймворк в целом&lt;br&gt;- Подходы к верстке (код, Storyboard)&lt;br&gt;- UIResponder Chain&lt;br&gt;- Навигация&lt;br&gt;- Фреймы&lt;br&gt;- AutoLayout" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-5" value="- Фреймворк в целом&lt;br&gt;- Подходы к верстке (код, Storyboard)&lt;br&gt;- UIResponder Chain&lt;br&gt;- Навигация&lt;br&gt;- Фреймы&lt;br&gt;- AutoLayout" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1703.5" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="1749.5" as="sourcePoint" />
             <mxPoint x="430" y="1749.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-7" value="- HTTP(s)&lt;br&gt;- Запросы, GET, POST, DELETE&lt;br&gt;- Body, Parameters&lt;br&gt;- URLSession, Alamofire, Moya&lt;br&gt;- OpenAPI Specs (Чтение)&lt;br&gt;- JSON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-7" value="- HTTP(s)&lt;br&gt;- Запросы, GET, POST, DELETE&lt;br&gt;- Body, Parameters&lt;br&gt;- URLSession, Alamofire, Moya&lt;br&gt;- OpenAPI Specs (Чтение)&lt;br&gt;- JSON" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="2060" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="336" y="2109.5" as="sourcePoint" />
             <mxPoint x="429" y="2109.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-11" value="- Поток (Thread)&lt;br&gt;- Процесс (Process)&lt;br&gt;- GCD&lt;br&gt;- Queues&lt;br&gt;- Async/Awaits (Basics)&lt;br&gt;- Основные проблемы (инверсия приоритетов...)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-11" value="- Поток (Thread)&lt;br&gt;- Процесс (Process)&lt;br&gt;- GCD&lt;br&gt;- Queues&lt;br&gt;- Async/Awaits (Basics)&lt;br&gt;- Основные проблемы (инверсия приоритетов...)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1940" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-12" value="Интернет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-12" value="&lt;a href=&quot;https://habr.com/ru/articles/742502/&quot;&gt;Хабр&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://habr.com/ru/articles/320152/&quot;&gt;Хабр - 2&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/&quot;&gt;Uramio&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.avanderlee.com/swift/async-await/&quot;&gt;Async/Await - 1&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.hackingwithswift.com/swift/5.5/async-await&quot;&gt;Async/Await - 2&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2021/10132/&quot;&gt;WWDC&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1940" width="360" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0N70W88aVnIPwhQ0qISD-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="0N70W88aVnIPwhQ0qISD-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="1989.5" as="sourcePoint" />
             <mxPoint x="430" y="1989.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5tbpo6g7QbFUwmjugYQ-1" value="- Система контроля версий&lt;br&gt;- Принцип работы&lt;br&gt;- pull, commit, push, branch, clone&lt;br&gt;- Merge(Pull) requests&lt;br&gt;- Хотя бы один GUI клиент" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1190" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C5tbpo6g7QbFUwmjugYQ-2" value="GitHub Desktop&lt;br&gt;Sourcetree&lt;br&gt;&lt;a href=&quot;https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-Git%3F&quot;&gt;Git&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://habr.com/ru/articles/541258/&quot;&gt;Git Habr&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1190" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C5tbpo6g7QbFUwmjugYQ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="1239.5" as="sourcePoint" />
+            <mxPoint x="431" y="1239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
